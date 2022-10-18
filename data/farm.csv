@@ -1,4 +1,5 @@
 ﻿Name,Tags,hay_ration
-cow,,10
-pig,,20
-horse,,30
+cow,cow,10
+pig1,pig,20
+frank,horse,30
+pig2,pig,40
