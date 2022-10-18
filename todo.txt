@@ -1,0 +1,2 @@
+- compare imports and dependencies in Python and Rust.
+- what's the difference between venv and virtualenv?
