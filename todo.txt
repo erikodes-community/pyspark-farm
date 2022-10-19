@@ -1,2 +1,3 @@
 - compare imports and dependencies in Python and Rust.
 - what's the difference between venv and virtualenv?
+- deploy my_cool_package to pypi
