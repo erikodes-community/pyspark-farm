@@ -21,4 +21,4 @@ from pyspark.sql.session import SparkSession
 
 So, when we say `from pyspark.sql import SparkSession`, a line in `pyspark.sql.__init__` tells Python to go and look in `pyspark.sql.session` for `SparkSession`.
 
-For a demonstration of how this works, without the large PySpark codebase to distract us, let's look at 
+For a demonstration of how this works, without the large PySpark codebase to distract us, let's look at `my_cool_package`.
